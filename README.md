@@ -26,7 +26,7 @@ A website that classifies resumes into job categories using Natural Language Pro
 ---
 
 ##  Demo Screenshot
-<img src="C:\Users\91938\Pictures\Screenshots\Screenshot 2024-07-20 164758.png" alt="image">
+![App Demo](DemoScreenshot.png)
 
 ---
 
